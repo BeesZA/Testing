@@ -1,0 +1,44 @@
+body 
+{    
+    background-image:url("Back.JPG");
+    text-align:center;
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#Header
+{
+    font-size:40px;
+    color:#E7625B;
+}
+#Main
+{
+       
+    border-radius:10px;
+    
+}
+.Image
+{
+   border:2px solid black;     
+    margin-left:auto;
+    margin-right:auto;    
+    margin-top:1%;
+    margin-bottom:2%;
+    width:50%;
+   border-radius:3px;    
+}
+.ContentH
+{
+    font-size:20px;
+    font-family:@Microsoft YaHei UI;
+    font-weight:bold;
+    color:#274BE8;
+}
+p
+{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    
+    border-radius:3px;
+}
